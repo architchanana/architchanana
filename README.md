@@ -2,6 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/architchanana)
 [![GitHub followers](https://img.shields.io/github/followers/architchanana?label=Follow&style=social)](https://github.com/architchanana)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:archit.chanana@gmail.com)
+![Phone](https://img.shields.io/badge/Phone-9501302367-25D366?style=flat&logo=whatsapp&logoColor=white)
 
 ## 🚀 About Me
 **Software Engineer @ FourKites | 2+ Years of Experience | Distributed Systems Enthusiast**
