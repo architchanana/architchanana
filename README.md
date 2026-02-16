@@ -130,6 +130,8 @@ Chandigarh University, Punjab (2020-2024) | **GPA: 8.18/10.0**
 
 ---
 
+<div align="center">
+
 ⚡ **Fun Fact:** From processing 1M+ daily events to building AI diagnostic tools that cut resolution time by 99.7%—I turn complex distributed problems into elegant solutions, one microservice at a time.
 
 *"Building systems that scale, one commit at a time"* 🚀
@@ -137,3 +139,5 @@ Chandigarh University, Punjab (2020-2024) | **GPA: 8.18/10.0**
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=architchanana&color=blueviolet)
+
+</div>
